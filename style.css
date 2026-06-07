@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;text-align:center;padding:10px}
+#grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}
+.card{border:1px solid #ccc;border-radius:16px;padding:12px;font-size:24px}
+button{font-size:20px;padding:10px 16px;border-radius:12px}
